@@ -1,7 +1,10 @@
 ```markdown
 # ИИ-ассистент для компании по организации свадеб
 
-Ссылка на проект - https://t.me/amaraweddings_bot 
+Ссылка на проект - https://t.me/amaraweddings_bot
+
+![Screenshot 1] (https://github.com/Anna-Oz/ai_assistant/blob/main/Telegram%20bot%20chat.jpg?raw=true)
+
 
 ## Описание проекта
 
