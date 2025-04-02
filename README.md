@@ -3,7 +3,7 @@
 
 Ссылка на проект - https://t.me/amaraweddings_bot
 
- [Screenshot 1]](https://raw.githubusercontent.com/Anna-Oz/ai_assistant/refs/heads/main/Telegram%20bot%20chat.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/Anna-Oz/ai_assistant/refs/heads/main/Telegram%20bot%20chat.jpg)
 
 
 ## Описание проекта
