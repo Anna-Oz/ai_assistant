@@ -73,8 +73,3 @@
 - **Qwen**: [https://qwen.aliyun.com](https://qwen.aliyun.com)
 - **Suvvy.ai**: [https://suvvy.ai](https://suvvy.ai)
 
----
-
-## Лицензия
-
-Проект распространяется под лицензией [MIT License](LICENSE).
